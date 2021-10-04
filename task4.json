@@ -1,0 +1,20 @@
+{
+    "Rating": "G",
+    "Genre": [
+        "fantasy",
+        " adventure",
+        " kids & family",
+        " comedy"
+    ],
+    "language": "English",
+    "director": [
+        "JoshCooley"
+    ],
+    "Producer": [
+        "MarkNielsen",
+        "JonasRivera",
+        "GalynSusman"
+    ],
+    "Runtime": 104,
+    "movieName": "toy_story_4"
+}
